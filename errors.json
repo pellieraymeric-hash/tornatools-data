@@ -1,0 +1,525 @@
+[
+  {
+    "id": 1,
+    "title": "Check Atomizer",
+    "category": "Détection",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Le message Check Atomizer apparaît",
+      "La cigarette électronique ne chauffe plus",
+      "La résistance semble ne plus être détectée"
+    ],
+    "causes": [
+      "Résistance mal vissée",
+      "Cartouche mal positionnée",
+      "Contacts sales",
+      "Résistance défectueuse"
+    ],
+    "solutions": [
+      "Retirer puis remettre la cartouche",
+      "Vérifier que la résistance est correctement installée",
+      "Nettoyer délicatement les contacts",
+      "Tester avec une autre résistance compatible"
+    ],
+    "keywords": [
+      "check atomizer",
+      "atomizer",
+      "résistance non détectée"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "No Atomizer",
+    "category": "Détection",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Le message No Atomizer apparaît",
+      "Le matériel ne détecte aucun atomiseur"
+    ],
+    "causes": [
+      "Mauvais contact",
+      "Résistance absente",
+      "Résistance mal installée",
+      "Connecteur encrassé"
+    ],
+    "solutions": [
+      "Retirer et remettre le réservoir",
+      "Vérifier la résistance",
+      "Nettoyer les contacts",
+      "Essayer une autre résistance"
+    ],
+    "keywords": [
+      "no atomizer",
+      "atomiseur absent",
+      "pas de résistance"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Atomizer Short",
+    "category": "Sécurité",
+    "severity": "Élevée",
+    "symptoms": [
+      "Le message Atomizer Short apparaît",
+      "L'appareil refuse de fonctionner"
+    ],
+    "causes": [
+      "Court-circuit au niveau de la résistance",
+      "Résistance endommagée",
+      "Mauvais montage",
+      "Contact métallique anormal"
+    ],
+    "solutions": [
+      "Ne pas insister",
+      "Retirer la résistance",
+      "Vérifier le montage",
+      "Installer une résistance neuve et compatible"
+    ],
+    "keywords": [
+      "atomizer short",
+      "court circuit",
+      "short"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Low Battery",
+    "category": "Batterie",
+    "severity": "Faible",
+    "symptoms": [
+      "Message Low Battery",
+      "L'appareil ne déclenche plus"
+    ],
+    "causes": [
+      "Batterie presque vide"
+    ],
+    "solutions": [
+      "Recharger complètement l'appareil",
+      "Tester un autre câble USB si nécessaire"
+    ],
+    "keywords": [
+      "low battery",
+      "batterie faible",
+      "batterie vide"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Check Battery",
+    "category": "Batterie",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Message Check Battery",
+      "L'appareil refuse de démarrer"
+    ],
+    "causes": [
+      "Accu mal installé",
+      "Contacts sales",
+      "Accu incompatible",
+      "Accu endommagé"
+    ],
+    "solutions": [
+      "Éteindre l'appareil",
+      "Vérifier l'installation de l'accu",
+      "Vérifier l'état des contacts",
+      "Ne pas utiliser un accu endommagé"
+    ],
+    "keywords": [
+      "check battery",
+      "accu",
+      "batterie"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Battery Too Hot",
+    "category": "Sécurité",
+    "severity": "Élevée",
+    "symptoms": [
+      "Appareil très chaud",
+      "Alerte de température",
+      "Arrêt automatique"
+    ],
+    "causes": [
+      "Utilisation intensive",
+      "Température ambiante élevée",
+      "Problème de batterie",
+      "Problème électronique"
+    ],
+    "solutions": [
+      "Arrêter immédiatement l'utilisation",
+      "Laisser refroidir l'appareil",
+      "Ne pas recharger tant qu'il est chaud",
+      "Ne plus utiliser l'appareil si la surchauffe se reproduit"
+    ],
+    "keywords": [
+      "hot",
+      "surchauffe",
+      "battery hot",
+      "trop chaud"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Over 10s",
+    "category": "Protection",
+    "severity": "Faible",
+    "symptoms": [
+      "L'appareil coupe pendant une longue bouffée",
+      "Message Over 10s"
+    ],
+    "causes": [
+      "Durée maximale de déclenchement atteinte"
+    ],
+    "solutions": [
+      "Relâcher le bouton",
+      "Attendre quelques secondes",
+      "Prendre des bouffées plus courtes"
+    ],
+    "keywords": [
+      "over 10s",
+      "10 seconds",
+      "coupure"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Resistance Too Low",
+    "category": "Résistance",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Message Resistance Too Low",
+      "L'appareil refuse de déclencher"
+    ],
+    "causes": [
+      "Résistance trop basse pour l'appareil",
+      "Résistance défectueuse",
+      "Court-circuit partiel"
+    ],
+    "solutions": [
+      "Vérifier la plage de résistances acceptée",
+      "Installer une résistance compatible",
+      "Tester une résistance neuve"
+    ],
+    "keywords": [
+      "resistance too low",
+      "ohm low",
+      "résistance basse"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Resistance Too High",
+    "category": "Résistance",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Message Resistance Too High",
+      "Pas de chauffe"
+    ],
+    "causes": [
+      "Résistance hors plage",
+      "Mauvais contact",
+      "Résistance endommagée"
+    ],
+    "solutions": [
+      "Vérifier la résistance utilisée",
+      "Nettoyer les contacts",
+      "Essayer une résistance neuve"
+    ],
+    "keywords": [
+      "resistance too high",
+      "ohm high",
+      "résistance élevée"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Goût de brûlé",
+    "category": "Résistance",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Goût très sec ou brûlé",
+      "Vape désagréable"
+    ],
+    "causes": [
+      "Coton insuffisamment imbibé",
+      "Résistance usée",
+      "Puissance trop élevée",
+      "Réservoir presque vide"
+    ],
+    "solutions": [
+      "Vérifier le niveau d'e-liquide",
+      "Réduire la puissance",
+      "Laisser imbiber une résistance neuve quelques minutes avant utilisation",
+      "Changer la résistance si le goût persiste"
+    ],
+    "keywords": [
+      "goût brûlé",
+      "dry hit",
+      "brulé",
+      "burnt"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Fuite de e-liquide",
+    "category": "Fuite",
+    "severity": "Faible",
+    "symptoms": [
+      "Liquide sous la cartouche",
+      "Liquide autour de l'airflow",
+      "Traces de liquide dans l'appareil"
+    ],
+    "causes": [
+      "Cartouche mal fermée",
+      "Joint abîmé",
+      "Résistance mal installée",
+      "Condensation",
+      "Liquide trop fluide pour le matériel"
+    ],
+    "solutions": [
+      "Essuyer complètement l'appareil",
+      "Vérifier les joints",
+      "Vérifier l'installation de la résistance",
+      "Ne pas trop remplir le réservoir"
+    ],
+    "keywords": [
+      "fuite",
+      "liquide",
+      "leak"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Glouglou",
+    "category": "Fuite",
+    "severity": "Faible",
+    "symptoms": [
+      "Bruits de gargouillement",
+      "Remontées de liquide"
+    ],
+    "causes": [
+      "Résistance noyée",
+      "Excès de condensation",
+      "Aspiration trop forte"
+    ],
+    "solutions": [
+      "Nettoyer le conduit d'air",
+      "Essuyer la condensation",
+      "Vérifier que la résistance n'est pas saturée",
+      "Aspirer plus doucement"
+    ],
+    "keywords": [
+      "glouglou",
+      "gargouillement",
+      "remontée liquide"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Pas de vapeur",
+    "category": "Fonctionnement",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Aucune vapeur produite",
+      "L'appareil semble pourtant allumé"
+    ],
+    "causes": [
+      "Batterie vide",
+      "Résistance non détectée",
+      "Résistance usée",
+      "Réservoir vide"
+    ],
+    "solutions": [
+      "Vérifier la batterie",
+      "Vérifier le niveau d'e-liquide",
+      "Retirer et remettre la cartouche",
+      "Tester une résistance neuve"
+    ],
+    "keywords": [
+      "pas vapeur",
+      "no vapor",
+      "ne fonctionne pas"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Faible production de vapeur",
+    "category": "Fonctionnement",
+    "severity": "Faible",
+    "symptoms": [
+      "Beaucoup moins de vapeur qu'avant"
+    ],
+    "causes": [
+      "Résistance vieillissante",
+      "Batterie faible",
+      "Puissance basse",
+      "Airflow trop fermé"
+    ],
+    "solutions": [
+      "Recharger l'appareil",
+      "Vérifier la puissance",
+      "Vérifier l'airflow",
+      "Changer la résistance si nécessaire"
+    ],
+    "keywords": [
+      "peu vapeur",
+      "faible vapeur"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Saveur faible",
+    "category": "Fonctionnement",
+    "severity": "Faible",
+    "symptoms": [
+      "Les arômes sont beaucoup moins présents"
+    ],
+    "causes": [
+      "Résistance usée",
+      "Puissance mal réglée",
+      "Saturation gustative"
+    ],
+    "solutions": [
+      "Tester une résistance neuve",
+      "Vérifier la plage de puissance conseillée",
+      "Changer temporairement de saveur"
+    ],
+    "keywords": [
+      "saveur faible",
+      "pas de goût",
+      "flavor"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "L'appareil ne s'allume plus",
+    "category": "Batterie",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Écran éteint",
+      "Aucune réaction au bouton"
+    ],
+    "causes": [
+      "Batterie complètement vide",
+      "Appareil verrouillé",
+      "Problème de câble ou de charge",
+      "Panne électronique"
+    ],
+    "solutions": [
+      "Mettre l'appareil en charge",
+      "Tester un autre câble compatible",
+      "Vérifier la méthode d'allumage",
+      "Arrêter l'utilisation si l'appareil reste totalement inerte"
+    ],
+    "keywords": [
+      "ne s'allume plus",
+      "écran noir",
+      "dead"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "L'appareil ne charge plus",
+    "category": "Batterie",
+    "severity": "Moyenne",
+    "symptoms": [
+      "Aucun indicateur de charge",
+      "Le pourcentage de batterie n'augmente pas"
+    ],
+    "causes": [
+      "Câble défectueux",
+      "Port USB sale",
+      "Chargeur incompatible",
+      "Batterie défectueuse"
+    ],
+    "solutions": [
+      "Tester un autre câble",
+      "Vérifier visuellement le port de charge",
+      "Utiliser une alimentation appropriée",
+      "Ne pas forcer un connecteur endommagé"
+    ],
+    "keywords": [
+      "charge",
+      "usb",
+      "ne charge pas"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Auto-fire",
+    "category": "Sécurité",
+    "severity": "Critique",
+    "symptoms": [
+      "L'appareil chauffe sans appuyer",
+      "L'appareil se déclenche seul"
+    ],
+    "causes": [
+      "Bouton bloqué",
+      "Liquide dans l'électronique",
+      "Panne électronique"
+    ],
+    "solutions": [
+      "Arrêter immédiatement l'utilisation",
+      "Éteindre l'appareil si possible",
+      "Retirer l'accu si le matériel le permet et si cela peut être fait sans risque",
+      "Ne pas réutiliser l'appareil tant que le problème n'est pas identifié"
+    ],
+    "keywords": [
+      "auto fire",
+      "autofire",
+      "déclenche seul"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Résistance qui brûle trop vite",
+    "category": "Résistance",
+    "severity": "Faible",
+    "symptoms": [
+      "Les résistances durent très peu de temps",
+      "Goût de brûlé après quelques jours"
+    ],
+    "causes": [
+      "Puissance trop élevée",
+      "Liquide très sucré",
+      "Résistance insuffisamment amorcée",
+      "Vapotage en chaîne"
+    ],
+    "solutions": [
+      "Respecter la plage de puissance",
+      "Amorcer correctement une résistance neuve",
+      "Espacer les bouffées",
+      "Changer de liquide si les résistances s'encrassent très rapidement"
+    ],
+    "keywords": [
+      "résistance brûle",
+      "coil durée",
+      "coil burn"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Condensation sous la cartouche",
+    "category": "Entretien",
+    "severity": "Faible",
+    "symptoms": [
+      "Petites gouttes sous la cartouche",
+      "Humidité sur les contacts"
+    ],
+    "causes": [
+      "Condensation normale de la vapeur",
+      "Petite quantité de liquide autour de la cartouche"
+    ],
+    "solutions": [
+      "Retirer régulièrement la cartouche",
+      "Essuyer les contacts avec un tissu sec",
+      "Maintenir la zone propre"
+    ],
+    "keywords": [
+      "condensation",
+      "gouttes",
+      "cartouche humide"
+    ]
+  }
+]
