@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "product": "Vaporesso XROS 4",
+    "brand": "Vaporesso",
+    "compatibleWith": [
+      "Cartouche XROS 0.4 ohm",
+      "Cartouche XROS 0.6 ohm",
+      "Cartouche XROS 0.8 ohm",
+      "Cartouche XROS 1.0 ohm",
+      "Cartouche XROS 1.2 ohm"
+    ]
+  },
+  {
+    "id": 2,
+    "product": "Vaporesso XROS 4 Mini",
+    "brand": "Vaporesso",
+    "compatibleWith": [
+      "Cartouche XROS 0.4 ohm",
+      "Cartouche XROS 0.6 ohm",
+      "Cartouche XROS 0.8 ohm",
+      "Cartouche XROS 1.0 ohm",
+      "Cartouche XROS 1.2 ohm"
+    ]
+  },
+  {
+    "id": 3,
+    "product": "Vaporesso XROS 5",
+    "brand": "Vaporesso",
+    "compatibleWith": [
+      "Cartouche XROS 0.4 ohm",
+      "Cartouche XROS 0.6 ohm",
+      "Cartouche XROS 0.8 ohm",
+      "Cartouche XROS 1.0 ohm",
+      "Cartouche XROS 1.2 ohm"
+    ]
+  },
+  {
+    "id": 4,
+    "product": "Vaporesso XROS 5 Mini",
+    "brand": "Vaporesso",
+    "compatibleWith": [
+      "Cartouche XROS 0.4 ohm",
+      "Cartouche XROS 0.6 ohm",
+      "Cartouche XROS 0.8 ohm",
+      "Cartouche XROS 1.0 ohm",
+      "Cartouche XROS 1.2 ohm"
+    ]
+  },
+  {
+    "id": 5,
+    "product": "Geekvape Sonder Q",
+    "brand": "Geekvape",
+    "compatibleWith": [
+      "Cartouche Geekvape Q 0.6 ohm",
+      "Cartouche Geekvape Q 0.8 ohm",
+      "Cartouche Geekvape Q 1.2 ohm"
+    ]
+  },
+  {
+    "id": 6,
+    "product": "Geekvape Wenax Q",
+    "brand": "Geekvape",
+    "compatibleWith": [
+      "Cartouche Geekvape Q 0.6 ohm",
+      "Cartouche Geekvape Q 0.8 ohm",
+      "Cartouche Geekvape Q 1.2 ohm"
+    ]
+  },
+  {
+    "id": 7,
+    "product": "Voopoo Drag X2",
+    "brand": "Voopoo",
+    "compatibleWith": [
+      "Résistance PnP X 0.15 ohm",
+      "Résistance PnP X 0.2 ohm",
+      "Résistance PnP X 0.3 ohm",
+      "Résistance PnP X 0.6 ohm"
+    ]
+  },
+  {
+    "id": 8,
+    "product": "Voopoo Drag S2",
+    "brand": "Voopoo",
+    "compatibleWith": [
+      "Résistance PnP X 0.2 ohm",
+      "Résistance PnP X 0.3 ohm",
+      "Résistance PnP X 0.6 ohm"
+    ]
+  },
+  {
+    "id": 9,
+    "product": "Aspire Flexus Q",
+    "brand": "Aspire",
+    "compatibleWith": [
+      "Résistance AF 0.6 ohm",
+      "Résistance AF 1.0 ohm",
+      "Cartouche Flexus Q"
+    ]
+  },
+  {
+    "id": 10,
+    "product": "Uwell Caliburn G3",
+    "brand": "Uwell",
+    "compatibleWith": [
+      "Cartouche Caliburn G3 0.6 ohm",
+      "Cartouche Caliburn G3 0.9 ohm"
+    ]
+  },
+  {
+    "id": 11,
+    "product": "OXVA Xlim Pro",
+    "brand": "OXVA",
+    "compatibleWith": [
+      "Cartouche Xlim Top Fill 0.4 ohm",
+      "Cartouche Xlim Top Fill 0.6 ohm",
+      "Cartouche Xlim Top Fill 0.8 ohm",
+      "Cartouche Xlim Top Fill 1.2 ohm"
+    ]
+  },
+  {
+    "id": 12,
+    "product": "OXVA Xlim Pro 2",
+    "brand": "OXVA",
+    "compatibleWith": [
+      "Cartouche Xlim Top Fill 0.4 ohm",
+      "Cartouche Xlim Top Fill 0.6 ohm",
+      "Cartouche Xlim Top Fill 0.8 ohm",
+      "Cartouche Xlim Top Fill 1.2 ohm"
+    ]
+  }
+]
