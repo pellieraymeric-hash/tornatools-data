@@ -128,19 +128,19 @@
       "Cartouche Xlim Top Fill 0.8 ohm",
       "Cartouche Xlim Top Fill 1.2 ohm"
     ]
+  },
+  {
+    "id": 13,
+    "product": "Vaporesso Luxe XR Max",
+    "brand": "Vaporesso",
+    "compatibleWith": [
+      "Cartouche Luxe X 5 ml",
+      "Résistance GTX 0.15 ohm",
+      "Résistance GTX 0.2 ohm",
+      "Résistance GTX 0.3 ohm",
+      "Résistance GTX 0.4 ohm",
+      "Résistance GTX 0.6 ohm",
+      "Résistance GTX 0.8 ohm"
+    ]
   }
-{
-  "id": 13,
-  "product": "Vaporesso Luxe XR Max",
-  "brand": "Vaporesso",
-  "compatibleWith": [
-    "Cartouche Luxe X 5 ml",
-    "Résistance GTX 0.15 ohm",
-    "Résistance GTX 0.2 ohm",
-    "Résistance GTX 0.3 ohm",
-    "Résistance GTX 0.4 ohm",
-    "Résistance GTX 0.6 ohm",
-    "Résistance GTX 0.8 ohm"
-  ]
-}
 ]
