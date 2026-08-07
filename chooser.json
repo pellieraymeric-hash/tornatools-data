@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "appDataVersion": 7,
+  "updatedAt": "2026-08-08",
+  "datasets": {
+    "compatibilities": {
+      "version": 13,
+      "file": "compatibilities.json",
+      "enabled": true
+    },
+    "dictionary": {
+      "version": 1,
+      "file": "dictionary.json",
+      "enabled": true
+    },
+    "brands": {
+      "version": 1,
+      "file": "brands.json",
+      "enabled": true
+    },
+    "flavors": {
+      "version": 1,
+      "file": "flavors.json",
+      "enabled": true
+    },
+    "errors": {
+      "version": 1,
+      "file": "errors.json",
+      "enabled": true
+    },
+    "laws": {
+      "version": 1,
+      "file": "laws.json",
+      "enabled": true
+    },
+    "chooser": {
+      "version": 1,
+      "file": "chooser.json",
+      "enabled": true
+    }
+  }
+}
