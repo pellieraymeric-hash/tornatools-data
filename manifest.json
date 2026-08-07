@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "appDataVersion": 5,
+  "appDataVersion": 6,
   "updatedAt": "2026-08-08",
   "datasets": {
     "compatibilities": {
@@ -26,6 +26,11 @@
     "errors": {
       "version": 1,
       "file": "errors.json",
+      "enabled": true
+    },
+    "laws": {
+      "version": 1,
+      "file": "laws.json",
       "enabled": true
     }
   }
