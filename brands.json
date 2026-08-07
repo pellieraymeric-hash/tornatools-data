@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1,
+    "name": "Vaporesso",
+    "country": "Chine",
+    "description": "Fabricant de cigarettes électroniques, pods, kits et résistances. La marque est notamment connue pour les gammes XROS, Luxe et GTX.",
+    "categories": [
+      "Pods",
+      "Kits",
+      "Résistances",
+      "Cartouches"
+    ],
+    "popularProducts": [
+      "XROS 4",
+      "XROS 5",
+      "Luxe XR Max"
+    ],
+    "website": "https://www.vaporesso.com"
+  },
+  {
+    "id": 2,
+    "name": "Geekvape",
+    "country": "Chine",
+    "description": "Marque connue pour ses pods, kits robustes, box et clearomiseurs. Elle propose notamment les gammes Aegis, Wenax et Sonder.",
+    "categories": [
+      "Pods",
+      "Kits",
+      "Box",
+      "Résistances"
+    ],
+    "popularProducts": [
+      "Sonder Q",
+      "Wenax Q",
+      "Aegis"
+    ],
+    "website": "https://www.geekvape.com"
+  },
+  {
+    "id": 3,
+    "name": "Voopoo",
+    "country": "Chine",
+    "description": "Fabricant de pods, box et kits utilisant notamment les plateformes de résistances PnP et PnP X.",
+    "categories": [
+      "Pods",
+      "Kits",
+      "Box",
+      "Résistances"
+    ],
+    "popularProducts": [
+      "Drag X2",
+      "Drag S2",
+      "Argus"
+    ],
+    "website": "https://www.voopoo.com"
+  },
+  {
+    "id": 4,
+    "name": "Uwell",
+    "country": "Chine",
+    "description": "Fabricant connu notamment pour ses pods Caliburn et différents systèmes de cartouches.",
+    "categories": [
+      "Pods",
+      "Cartouches",
+      "Résistances"
+    ],
+    "popularProducts": [
+      "Caliburn G3",
+      "Caliburn G4"
+    ],
+    "website": "https://www.myuwell.com"
+  },
+  {
+    "id": 5,
+    "name": "OXVA",
+    "country": "Chine",
+    "description": "Marque spécialisée dans les pods et systèmes rechargeables, particulièrement connue pour la gamme Xlim.",
+    "categories": [
+      "Pods",
+      "Cartouches"
+    ],
+    "popularProducts": [
+      "Xlim Pro",
+      "Xlim Pro 2"
+    ],
+    "website": "https://www.oxva.com"
+  },
+  {
+    "id": 6,
+    "name": "Aspire",
+    "country": "Chine",
+    "description": "Fabricant historique de cigarettes électroniques, pods, clearomiseurs et résistances.",
+    "categories": [
+      "Pods",
+      "Kits",
+      "Clearomiseurs",
+      "Résistances"
+    ],
+    "popularProducts": [
+      "Flexus Q",
+      "Nautilus"
+    ],
+    "website": "https://www.aspirecig.com"
+  },
+  {
+    "id": 7,
+    "name": "Innokin",
+    "country": "Chine",
+    "description": "Marque proposant des kits, pods, clearomiseurs et matériels destinés à différents profils de vapoteurs.",
+    "categories": [
+      "Pods",
+      "Kits",
+      "Clearomiseurs"
+    ],
+    "popularProducts": [
+      "Kroma",
+      "Endura",
+      "Coolfire"
+    ],
+    "website": "https://www.innokin.com"
+  },
+  {
+    "id": 8,
+    "name": "Eleaf",
+    "country": "Chine",
+    "description": "Fabricant connu pour ses cigarettes électroniques compactes, box et gammes iStick.",
+    "categories": [
+      "Box",
+      "Kits",
+      "Pods"
+    ],
+    "popularProducts": [
+      "iStick",
+      "iJust"
+    ],
+    "website": "https://www.eleafworld.com"
+  },
+  {
+    "id": 9,
+    "name": "Lost Vape",
+    "country": "Chine",
+    "description": "Marque proposant des pods, box et matériels électroniques orientés vers les utilisateurs recherchant davantage de réglages.",
+    "categories": [
+      "Pods",
+      "Box",
+      "Kits"
+    ],
+    "popularProducts": [
+      "Ursa",
+      "Thelema",
+      "Centaurus"
+    ],
+    "website": "https://www.lostvape.com"
+  },
+  {
+    "id": 10,
+    "name": "Smok",
+    "country": "Chine",
+    "description": "Fabricant de pods, box, kits, clearomiseurs et résistances, connu pour de nombreuses gammes de matériels.",
+    "categories": [
+      "Pods",
+      "Box",
+      "Kits",
+      "Résistances"
+    ],
+    "popularProducts": [
+      "Nord",
+      "RPM",
+      "Novo"
+    ],
+    "website": "https://www.smoktech.com"
+  },
+  {
+    "id": 11,
+    "name": "Joyetech",
+    "country": "Chine",
+    "description": "Fabricant historique du secteur de la cigarette électronique proposant différents kits et matériels.",
+    "categories": [
+      "Kits",
+      "Pods",
+      "Box"
+    ],
+    "popularProducts": [
+      "eGo",
+      "EVIO"
+    ],
+    "website": "https://www.joyetech.com"
+  },
+  {
+    "id": 12,
+    "name": "Dotmod",
+    "country": "États-Unis",
+    "description": "Marque connue pour ses matériels de vape au positionnement premium, notamment pods et box.",
+    "categories": [
+      "Pods",
+      "Box",
+      "Matériel premium"
+    ],
+    "popularProducts": [
+      "dotPod",
+      "dotBox"
+    ],
+    "website": "https://dotmod.com"
+  },
+  {
+    "id": 13,
+    "name": "Vandy Vape",
+    "country": "Chine",
+    "description": "Fabricant proposant différents matériels et accessoires de vape, notamment pour les utilisateurs expérimentés.",
+    "categories": [
+      "Atomiseurs",
+      "Box",
+      "Accessoires"
+    ],
+    "popularProducts": [
+      "Pulse",
+      "Kylin"
+    ],
+    "website": "https://www.vandyvape.com"
+  },
+  {
+    "id": 14,
+    "name": "Hellvape",
+    "country": "Chine",
+    "description": "Marque connue notamment pour ses atomiseurs reconstructibles et différents accessoires.",
+    "categories": [
+      "Atomiseurs",
+      "Accessoires"
+    ],
+    "popularProducts": [
+      "Dead Rabbit"
+    ],
+    "website": "https://www.hellvape.com"
+  },
+  {
+    "id": 15,
+    "name": "Freemax",
+    "country": "Chine",
+    "description": "Fabricant de clearomiseurs, résistances et différents systèmes de vape.",
+    "categories": [
+      "Clearomiseurs",
+      "Résistances",
+      "Pods"
+    ],
+    "popularProducts": [
+      "Fireluke",
+      "Maxus"
+    ],
+    "website": "https://www.freemaxvape.com"
+  }
+]
