@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "defaults": {
+    "liquidMlPerDay": 5.0,
+    "liquidPricePer10Ml": 4.90,
+    "coilPrice": 3.50,
+    "coilLifetimeDays": 10,
+    "devicePrice": 25.00,
+    "deviceLifetimeMonths": 12
+  },
+  "consumptionProfiles": [
+    {
+      "id": 1,
+      "name": "Faible consommation",
+      "mlPerDay": 2.0,
+      "description": "Utilisation occasionnelle ou pod MTL peu gourmand."
+    },
+    {
+      "id": 2,
+      "name": "Consommation modérée",
+      "mlPerDay": 5.0,
+      "description": "Utilisation quotidienne classique."
+    },
+    {
+      "id": 3,
+      "name": "Consommation élevée",
+      "mlPerDay": 10.0,
+      "description": "Utilisation intensive ou matériel produisant davantage de vapeur."
+    },
+    {
+      "id": 4,
+      "name": "Très forte consommation",
+      "mlPerDay": 15.0,
+      "description": "Utilisation intensive de matériel puissant."
+    }
+  ],
+  "tips": [
+    "Une résistance utilisée à une puissance adaptée peut généralement durer plus longtemps.",
+    "Les e-liquides très sucrés peuvent encrasser certaines résistances plus rapidement.",
+    "Le coût réel dépend fortement du matériel, du liquide et de la fréquence d'utilisation.",
+    "Le calcul TornaTools est une estimation et non une dépense garantie."
+  ]
+}
