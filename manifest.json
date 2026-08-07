@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "appDataVersion": 3,
+  "appDataVersion": 4,
   "updatedAt": "2026-08-08",
   "datasets": {
     "compatibilities": {
@@ -16,6 +16,11 @@
     "brands": {
       "version": 1,
       "file": "brands.json",
+      "enabled": true
+    },
+    "flavors": {
+      "version": 1,
+      "file": "flavors.json",
       "enabled": true
     }
   }
