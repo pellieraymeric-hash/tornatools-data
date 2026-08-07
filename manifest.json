@@ -1,11 +1,16 @@
 {
   "schemaVersion": 1,
-  "appDataVersion": 1,
+  "appDataVersion": 2,
   "updatedAt": "2026-08-08",
   "datasets": {
     "compatibilities": {
       "version": 13,
       "file": "compatibilities.json",
+      "enabled": true
+    },
+    "dictionary": {
+      "version": 1,
+      "file": "dictionary.json",
       "enabled": true
     }
   }
