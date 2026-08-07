@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "term": "Airflow",
+    "category": "Matériel",
+    "definition": "Système d’arrivée d’air d’une cigarette électronique. Son réglage influence le tirage, la température de la vapeur et la sensation en bouche.",
+    "aliases": [
+      "Flux d’air",
+      "Arrivée d’air"
+    ]
+  },
+  {
+    "id": 2,
+    "term": "Atomiseur",
+    "category": "Matériel",
+    "definition": "Partie de la cigarette électronique qui contient la résistance et permet de vaporiser l’e-liquide.",
+    "aliases": [
+      "Ato"
+    ]
+  },
+  {
+    "id": 3,
+    "term": "Booster de nicotine",
+    "category": "E-liquide",
+    "definition": "Petit flacon fortement dosé en nicotine utilisé pour ajouter de la nicotine à un e-liquide sans nicotine.",
+    "aliases": [
+      "Booster",
+      "Booster 20 mg"
+    ]
+  },
+  {
+    "id": 4,
+    "term": "Cartouche",
+    "category": "Matériel",
+    "definition": "Réservoir amovible utilisé notamment sur les pods. Il peut intégrer la résistance ou accueillir une résistance remplaçable.",
+    "aliases": [
+      "Pod",
+      "Cartridge"
+    ]
+  },
+  {
+    "id": 5,
+    "term": "Clearomiseur",
+    "category": "Matériel",
+    "definition": "Atomiseur utilisant généralement des résistances préfabriquées et un réservoir transparent.",
+    "aliases": [
+      "Clearo"
+    ]
+  },
+  {
+    "id": 6,
+    "term": "Coil",
+    "category": "Matériel",
+    "definition": "Terme anglais désignant la résistance chauffante utilisée pour vaporiser l’e-liquide.",
+    "aliases": [
+      "Résistance"
+    ]
+  },
+  {
+    "id": 7,
+    "term": "DL",
+    "category": "Vape",
+    "definition": "Direct Lung. Type d’inhalation directe vers les poumons, généralement associé à un tirage aérien et une vapeur importante.",
+    "aliases": [
+      "Direct Lung",
+      "Inhalation directe"
+    ]
+  },
+  {
+    "id": 8,
+    "term": "DIY",
+    "category": "E-liquide",
+    "definition": "Do It Yourself. Préparation maison d’un e-liquide à partir d’une base, d’arômes et éventuellement de boosters de nicotine.",
+    "aliases": [
+      "Do It Yourself"
+    ]
+  },
+  {
+    "id": 9,
+    "term": "Drip tip",
+    "category": "Matériel",
+    "definition": "Embout buccal placé sur la partie supérieure de l’atomiseur ou de la cartouche.",
+    "aliases": [
+      "Embout"
+    ]
+  },
+  {
+    "id": 10,
+    "term": "Dry hit",
+    "category": "Vape",
+    "definition": "Bouffée très désagréable provoquée lorsque le coton de la résistance n’est plus suffisamment imbibé d’e-liquide.",
+    "aliases": [
+      "Goût de brûlé"
+    ]
+  },
+  {
+    "id": 11,
+    "term": "E-liquide",
+    "category": "E-liquide",
+    "definition": "Liquide destiné à être vaporisé dans une cigarette électronique. Il contient généralement du PG, du VG, des arômes et éventuellement de la nicotine.",
+    "aliases": [
+      "Liquide",
+      "Ejuice"
+    ]
+  },
+  {
+    "id": 12,
+    "term": "Freebase",
+    "category": "Nicotine",
+    "definition": "Forme classique de nicotine utilisée dans de nombreux e-liquides, généralement plus perceptible en gorge que les sels de nicotine à concentration équivalente.",
+    "aliases": [
+      "Nicotine classique"
+    ]
+  },
+  {
+    "id": 13,
+    "term": "Hit",
+    "category": "Vape",
+    "definition": "Sensation ressentie dans la gorge lors de l’inhalation. Elle dépend notamment de la nicotine, du PG et du matériel.",
+    "aliases": [
+      "Hit en gorge"
+    ]
+  },
+  {
+    "id": 14,
+    "term": "Mesh",
+    "category": "Matériel",
+    "definition": "Structure métallique en forme de grille utilisée dans certaines résistances afin d’obtenir une chauffe plus homogène.",
+    "aliases": [
+      "Résistance mesh"
+    ]
+  },
+  {
+    "id": 15,
+    "term": "MTL",
+    "category": "Vape",
+    "definition": "Mouth To Lung. Inhalation en deux temps, d’abord en bouche puis vers les poumons, avec un tirage généralement serré.",
+    "aliases": [
+      "Mouth To Lung",
+      "Inhalation indirecte"
+    ]
+  },
+  {
+    "id": 16,
+    "term": "Ohm",
+    "category": "Électricité",
+    "definition": "Unité de mesure de la résistance électrique. Dans la vape, elle sert notamment à caractériser une résistance.",
+    "aliases": [
+      "Ω"
+    ]
+  },
+  {
+    "id": 17,
+    "term": "PG",
+    "category": "E-liquide",
+    "definition": "Propylène glycol. Composant d’un e-liquide favorisant notamment le hit et la fluidité.",
+    "aliases": [
+      "Propylène glycol"
+    ]
+  },
+  {
+    "id": 18,
+    "term": "Pod",
+    "category": "Matériel",
+    "definition": "Cigarette électronique compacte utilisant généralement une cartouche amovible ou remplaçable.",
+    "aliases": [
+      "Pod system"
+    ]
+  },
+  {
+    "id": 19,
+    "term": "RDL",
+    "category": "Vape",
+    "definition": "Restricted Direct Lung. Tirage intermédiaire entre le MTL serré et le DL très aérien.",
+    "aliases": [
+      "Restricted Direct Lung"
+    ]
+  },
+  {
+    "id": 20,
+    "term": "Résistance",
+    "category": "Matériel",
+    "definition": "Élément chauffant contenant généralement un fil ou une grille métallique et du coton imbibé d’e-liquide.",
+    "aliases": [
+      "Coil"
+    ]
+  },
+  {
+    "id": 21,
+    "term": "Sels de nicotine",
+    "category": "Nicotine",
+    "definition": "Forme de nicotine souvent utilisée dans les pods et les e-liquides fortement nicotinés. Elle procure généralement une sensation en gorge plus douce à concentration comparable.",
+    "aliases": [
+      "Nicotine salts",
+      "Nic salts"
+    ]
+  },
+  {
+    "id": 22,
+    "term": "Sub-ohm",
+    "category": "Matériel",
+    "definition": "Utilisation d’une résistance dont la valeur est inférieure à 1 ohm. Elle est souvent associée à une puissance et une production de vapeur plus importantes.",
+    "aliases": [
+      "Subohm"
+    ]
+  },
+  {
+    "id": 23,
+    "term": "TPD",
+    "category": "Réglementation",
+    "definition": "Directive européenne encadrant notamment certains produits du tabac et du vapotage.",
+    "aliases": [
+      "Tobacco Products Directive"
+    ]
+  },
+  {
+    "id": 24,
+    "term": "VG",
+    "category": "E-liquide",
+    "definition": "Glycérine végétale. Composant épais d’un e-liquide contribuant fortement à la production de vapeur.",
+    "aliases": [
+      "Glycérine végétale"
+    ]
+  },
+  {
+    "id": 25,
+    "term": "Watt",
+    "category": "Électricité",
+    "definition": "Unité de puissance électrique. Sur un appareil réglable, la puissance en watts influence la chauffe de la résistance.",
+    "aliases": [
+      "W"
+    ]
+  }
+]
