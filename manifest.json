@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "appDataVersion": 9,
+  "appDataVersion": 10,
   "updatedAt": "2026-08-08",
   "datasets": {
     "compatibilities": {
@@ -34,7 +34,7 @@
       "enabled": true
     },
     "chooser": {
-      "version": 2,
+      "version": 3,
       "file": "chooser.json",
       "enabled": true
     },
